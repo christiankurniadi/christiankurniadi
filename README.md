@@ -2,7 +2,7 @@
 
 I'm in 12th grade and I'm on my way to become a professional Front End Developer. 
 
-I work hard to learn how to build a fully responsive websites and a simple apps, and i keep grinding and practice everyday.
+I work hard to learn how to build a fully responsive websites and a simple web apps, and i keep grinding and practice everyday.
 
 My expertise so far is HTML, CSS, and Javascript.
 
