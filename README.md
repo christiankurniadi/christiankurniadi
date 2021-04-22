@@ -19,13 +19,13 @@ My expertise so far is HTML, CSS, and Javascript.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=751aff)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ## Follow me
 
 [![GitHub Chris](https://img.shields.io/github/followers/christiankurniadi?label=follow&style=social)](http://github.com/christiankurniadi)
 
-[![Instagram Chris](https://img.shields.io/badge/-@_whodouthinkyouare-eb07c1?style=flat-rounded&logo=Instagram&logoColor=white&link=https://www.instagram.com/_whodouthinkyouare/)](https://www.instagram.com/_whodouthinkyouare/)
+[![Instagram Chris](https://img.shields.io/badge/-@_whodouthinkyouare-390f59?style=flat-rounded&logo=Instagram&logoColor=white&link=https://www.instagram.com/_whodouthinkyouare/)](https://www.instagram.com/_whodouthinkyouare/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christiankurniadi&layout=compact&theme=radical)](https://github.com/christiankurniadi/github-readme-stats)
 
