@@ -25,7 +25,7 @@ My expertise so far is HTML, CSS, and Javascript.
 
 [![GitHub Chris](https://img.shields.io/github/followers/christiankurniadi?label=follow&style=social)](http://github.com/christiankurniadi)
 
-[![Instagram Chris](https://img.shields.io/badge/-@cchriss.k-390f59?style=flat-rounded&logo=Instagram&logoColor=white&link=https://www.instagram.com/cchriss.k)](https://www.instagram.com/cchriss.k/)
+[![Instagram Chris](https://img.shields.io/badge/-@_chriskj-390f59?style=flat-rounded&logo=Instagram&logoColor=white&link=https://www.instagram.com/_chriskj)](https://www.instagram.com/_chriskj/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christiankurniadi&layout=compact&theme=radical)](https://github.com/christiankurniadi/github-readme-stats)
 
@@ -35,5 +35,5 @@ My expertise so far is HTML, CSS, and Javascript.
 Credits: [Chris](https://github.com/christiankurniadi)
 
 
-Last Edited on: 24/04/2021
+Last Edited on: 25/04/2021
 
