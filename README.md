@@ -1,12 +1,11 @@
 ## Hi there! I'm Chris 👋
 
-I'm on my way to become a professional Front End Developer. 
+I'm a Front End Developer. 
 
 I work hard to learn how to build a fully responsive websites and simple web apps, and i keep grinding and practice every day.
 
 My expertise so far is HTML, CSS, and Javascript.
 
-- 🔭 I’m currently working on Frontend Mentor projects
 - 🌱 I’m currently learning Javascript and Sass
 - 👯 I’m looking to collaborate on a professional team.
 - 💬 Ask me about anything and i'll answer as long as i can search it up on google.
