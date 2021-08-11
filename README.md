@@ -2,8 +2,6 @@
 
 I'm a Front End Developer. 
 
-I work hard to learn how to build a fully responsive websites and simple web apps, and i keep grinding and practice every day.
-
 My expertise so far is HTML, CSS, and Javascript.
 
 - 🌱 I’m currently learning Javascript and Sass
