@@ -1,19 +1,17 @@
 ## Hi there! I'm Chris 👋
 
-I'm a Front End Developer. 
+I'm an Indonesian Front End Developer based in Jakarta. 
 
-My expertise so far is HTML, CSS, and Javascript.
-
-- 🌱 I’m currently learning Javascript and Sass
-- 👯 I’m looking to collaborate on a professional team.
-- 💬 Ask me about anything and i'll answer as long as i can search it up on google.
-- 📫 How to reach me: christiankurniadi02@gmail.com
+📫 How to reach me: christiankurniadi02@gmail.com
 
 ## Languages, Libraries and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=f252a2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=751aff)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
